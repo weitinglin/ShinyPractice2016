@@ -16,3 +16,8 @@
   - passData()
   - reactive section
   - tabsetPanel / tabPanel
+
+##20160210
+  - combine the data upload
+  - with HTML
+  - ave, switch, subsetting
