@@ -10,12 +10,13 @@
   - use the numericInput in the UI.R for the value input for plot
   - use plotOutput in the UI.R for setting the output to throw to server.R
   - renderPlot in the server.R for getting the input from the ui.R
-##20160208.1
-  - vanilla UI layout
-  - practical example on the google analytics example
-  - passData()
-  - reactive section
-  - tabsetPanel / tabPanel
+
+##20160208 2
+   - vanilla UI layout
+   - practical example on the google analytics example
+   - passData()
+   - reactive section
+   - tabsetPanel / tabPanel
 
 ##20160210
   - combine the data upload
